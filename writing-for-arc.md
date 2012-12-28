@@ -21,7 +21,7 @@ Note for Guides
 
 ## Writing your ideas with style
 
-- see our [style guide for arc ideas](style-guide.md)
+- see our [style guide for arc ideas](http://prose.io/#citizenlogistics/docs/blob/master/style-guide.md)
 
 
 ## How we'll pimp your ideas
