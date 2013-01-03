@@ -3,11 +3,11 @@ Note for Guides
 
 ## Our mission
 
-(a) to advance the status quo re: what people do with their free time, towards activities that are more deeply satisfying instead of just bars, movies, etc
+(a) give the people better activity options than the bars, movies, restaurants suggested by other channels
 
-(b) to create a large pool of better options, and an easy way to navigate them and to commit to them
+BY
 
-(c) to support those who come up with better options  (that's you)
+(c) supporting those innovators who come up with better activity options  (that's you)
 
 
 ## How it works
